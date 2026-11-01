@@ -1,0 +1,12 @@
+data/*
+!data/.gitkeep
+cache/
+checkpoints/
+*.pth
+*.pt
+*.h5
+*.npz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
